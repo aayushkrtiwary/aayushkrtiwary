@@ -7,9 +7,9 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="mailto:YOUR_EMAIL@example.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-  <a href="https://github.com/"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+  <a href="https://www.linkedin.com/in/aayushkumartiwary/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:krtiwaryaayush@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://github.com/aayushkrtiwary"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
 </p>
 
 ---
@@ -76,7 +76,7 @@ My long-term direction is **AI Engineering**, with a focus on **Machine Learning
 I use projects to turn concepts into demonstrable engineering ability.
 
 ### 🤖 AI Assistant — `Jarvis`
-**Status:** In progress
+**Status:** Completed
 
 A Python-based personal assistant project exploring APIs, automation, voice interaction and AI-powered workflows.
 
